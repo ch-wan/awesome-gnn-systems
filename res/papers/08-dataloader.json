@@ -2,6 +2,13 @@
     "title": "GNN Dataloaders",
     "paper": [
         {
+            "venue": "VLDB 2024",
+            "name": "Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses",
+            "affiliation": "UIUC",
+            "link": "https://arxiv.org/abs/2306.16384v2",
+            "source": "https://github.com/jeongminpark417/GIDS"
+        },
+        {
             "venue": "NSDI 2023",
             "name": "BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing",
             "affiliation": "ByteDance",
