@@ -2,6 +2,13 @@
     "title": "Training Systems for Scaling Graphs",
     "paper": [
         {
+            "venue": "ICDE 2025",
+            "name": "Hyperion: Optimizing SSD Access is All You Need to Enable Cost-efficient Out-of-core GNN Training",
+            "affiliation":"ZJU",
+            "link": "https://wangzeke.github.io/doc/Hyperion-ICDE25.pdf",
+            "source":"https://github.com/RC4ML/Hyperion"
+        },
+        {
             "venue": "DaMoN 2024",
             "name": "In situ neighborhood sampling for large-scale GNN training",
             "affiliation":"Boston University",
