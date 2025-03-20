@@ -2,6 +2,20 @@
     "title": "Distributed GNN Training Systems",
     "paper": [
         {
+            "venue": "FAST 2025",
+            "name": "LeapGNN: Accelerating Distributed GNN Training Leveraging Feature-Centric Model Migration",
+            "affiliation": "ZJU",
+            "link": "https://www.usenix.org/system/files/fast25-chen-weijian-leap.pdf",
+            "source": "https://github.com/ISCS-ZJU/LeapGNN-AE"
+        },
+        {
+            "venue": "VLDB 2025",
+            "name": "NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism ",
+            "affiliation": "NEU",
+            "link": "https://arxiv.org/abs/2412.20379",
+            "source": "https://github.com/iDC-NEU/NeutronTP"
+        },
+        {
             "venue": "arXiv 2023",
             "name": "Communication-Free Distributed GNN Training with Vertex Cut",
             "affiliation": "Stanford",
@@ -19,6 +33,13 @@
             "affiliation": "UCSB",
             "link": "https://www.usenix.org/system/files/osdi23-wang-yuke.pdf",
             "source": "https://github.com/YukeWang96/MGG_OSDI23"
+        },
+        {
+            "venue": "SIGMOD 2022",
+            "name": "NeutronStar: Distributed GNN Training with Hybrid Management ",
+            "affiliation": "NEU",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3514221.3526134",
+            "source": "https://github.com/iDC-NEU/NeutronStarLite"
         },
         {
             "venue": "VLDB 2022",
