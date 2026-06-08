@@ -16,6 +16,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
   - [GNN Inference Accelerators](#gnn-inference-accelerators)
 - [Contribute](#contribute)
 ## Open Source Libraries
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [PyG: Graph Neural Network Library for PyTorch](https://github.com/rusty1s/pytorch_geometric) ![GitHub stars](https://img.shields.io/github/stars/rusty1s/pytorch_geometric.svg?logo=github&label=Stars)
 - [DGL: Python Package Built to Ease Deep Learning on Graph](https://github.com/dmlc/dgl) ![GitHub stars](https://img.shields.io/github/stars/dmlc/dgl.svg?logo=github&label=Stars)
 - [Graph Nets: Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets) ![GitHub stars](https://img.shields.io/github/stars/deepmind/graph_nets.svg?logo=github&label=Stars)
