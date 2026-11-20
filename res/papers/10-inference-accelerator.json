@@ -2,6 +2,13 @@
     "title": "GNN Inference Accelerators",
     "paper": [
         {
+            "venue": "IEEE Big Data 2025",
+            "name": "Degree-Based Scheduling and Memory Management for Large-Scale Exact Online GNN Inference",
+            "affiliation": "UVA & UIUC",
+            "link": "https://ieeexplore.ieee.org/abstract/document/11402115",
+            "source": "https://github.com/Alireza-3/GSM-Degree-based-scheduling-for-GNN-Inference-Serving"
+        },
+        {
             "venue": "JAIHC 2022",
             "name": "DRGN: a dynamically reconfigurable accelerator for graph neural networks",
             "affiliation": "XJTU",
